@@ -1,1 +1,1 @@
-hiddify://install-sub?url=https%3A%2F%2Fapi.yebekhe.link%2Fsingbox%2F%3Furl%3Dhttps%253A%252F%252Fapi.yebekhe.link%252Fshervin%26limit%3D0%26tun%3Dtrue&name=CONVERTED+BY+TVC
+hiddify://install-sub?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyebekhe%2FTelegramV2rayCollector%2Fmain%2Fsub%2Fnormal%2Fmix&name=TVC+%7C+MIX
